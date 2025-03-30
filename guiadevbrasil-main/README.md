@@ -10,20 +10,20 @@
 > Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">]()
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">]()
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]()
+[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">]()
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 </sub>
 
 ## 💌 Doações
 
 > Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
 
-- [Clique aqui para realizar uma doação! 💓](https://beacons.ai/doacoesguiadev)
+- [Clique aqui para realizar uma doação! 💓]()
 
 > Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
 
@@ -31,15 +31,15 @@
 
 > Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
 
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar](https://hotm.art/cSMObU)
+- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar]()
 
 ## ⚠️ Aviso importante
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
 
-- Me siga no [Github](https://github.com/arthurspk)
-- Acesse as redes sociais do [Guia Dev Brasil](https://beacons.ai/guiadevbrasil/)
-- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+- Me siga no [Github]()
+- Acesse as redes sociais do [Guia Dev Brasil]()
+- Mande feedbacks no [LinkedIn]()
 
 ## 💡 Nossa proposta
 
@@ -48,28 +48,6 @@
 ## :beginner: Para quem está começando agora
 
 > Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-
-## 🌍 Tradução
-
-> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
-
-<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 
 ## 📚 ÍNDICE
 
