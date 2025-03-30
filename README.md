@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadevbrasil">
-    <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
+      <img src="./images/guia.png" alt="Guia Extenso de Programação" width="160" height="160">
   </a>
   <h1 align="center">Guia Extenso de Programação</h1>
 </p>
@@ -19,27 +18,11 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 </sub>
 
-## 💌 Doações
-
-> Olá! Se você está lendo isso, é porque provavelmente já conhece o meu repositório no GitHub, que oferece conteúdo gratuito para ajudar desenvolvedores a aprimorarem suas habilidades. E se você está aqui, talvez esteja considerando contribuir com uma doação para apoiar a continuação do projeto.
-
-- [Clique aqui para realizar uma doação! 💓]()
-
-> Se você quiser contribuir, existem várias opções disponíveis, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffe, Pic Pay e Pix. Qualquer doação, por menor que seja, é extremamente bem-vinda e será usada com responsabilidade e transparência. Obrigado por considerar apoiar meu projeto! Juntos, podemos continuar a compartilhar conhecimento e ajudar a criar uma comunidade de desenvolvedores mais forte e colaborativa.
-
 ## :closed_book: E-Book
 
 > Este repositório é um projeto gratuito para a comunidade de desenvolvedores. Você pode me ajudar comprando o e-book "e-Front" se estiver interessado em aprender ou melhorar suas habilidades de desenvolvimento front-end. O e-book é completo e cobre tecnologias essenciais como HTML, CSS, JavaScript, React, TypeScript e mais. O valor é simbólico e sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada no desenvolvimento front-end.
 
-- eFront - Estudando Desenvolvimento Front-end do Zero. [Clique aqui para comprar]()
-
-## ⚠️ Aviso importante
-
-> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
-
-- Me siga no [Github]()
-- Acesse as redes sociais do [Guia Dev Brasil]()
-- Mande feedbacks no [LinkedIn]()
+- eFront - Estudando Desenvolvimento Front-end do Zero. 
 
 ## 💡 Nossa proposta
 
